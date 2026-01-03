@@ -3,7 +3,7 @@
 
 The announcement: https://habr.com/ru/companies/vk/articles/156901/
 
-The announcement2: https://codeforces.com/blog/entry/5682
+The announcement 2: https://codeforces.com/blog/entry/5682
 
 1st place (Mr.Smile): https://habr.com/ru/articles/161333/
 
@@ -20,7 +20,7 @@ Results: https://habr.com/ru/companies/vk/articles/162505/
 
 The announcement: https://habr.com/ru/companies/vk/articles/202144/
 
-The announcement2: https://codeforces.com/blog/entry/9440
+The announcement 2: https://codeforces.com/blog/entry/9440
 
 1st place (slash): https://habr.com/ru/articles/206680/
 
@@ -44,7 +44,7 @@ Results: https://habr.com/ru/companies/vk/articles/240975/
 
 The announcement: https://habr.com/ru/companies/vk/articles/270759/
 
-The announcement2: https://codeforces.com/blog/entry/21566
+The announcement 2: https://codeforces.com/blog/entry/21566
 
 1st place (Santa324): https://habr.com/ru/articles/273649/
 
@@ -177,7 +177,7 @@ The announcement: https://habr.com/ru/company/mailru/blog/459232/
 # Common articles
 Russian AI Cup: participant's toolkit (mortido): https://habr.com/ru/articles/343006/
 
-Архитектуры ИИ: https://habr.com/ru/articles/173187/
+AI Architectures: https://habr.com/ru/articles/173187/
 
 [The Total Beginner's Guide to Game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) and in Russian [Обзор техник реализации игрового ИИ](https://habr.com/post/420219/)
 
